@@ -10,6 +10,7 @@ It consists of a few parts:
  - squeeze_net.ipynb: [does not exist yet] a retrained version of SqueezeNet
 
 # Useful links
+- COCO Dataset: https://cocodataset.org/#download
 - pycoco API: https://github.com/cocodataset/cocoapi/blob/master/PythonAPI/pycocotools/coco.py
 
 # Authors
