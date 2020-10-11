@@ -9,5 +9,11 @@ It consists of a few parts:
  - rounded_model.ipynb: [does not exist yet] a fully connected neural network with handmade gradient descent changes
  - squeeze_net.ipynb: [does not exist yet] a retrained version of SqueezeNet
 
+# Useful links
+- pycoco API: https://github.com/cocodataset/cocoapi/blob/master/PythonAPI/pycocotools/coco.py
+
 # Authors
 Philip Pfeffer & Raul Dagir
+
+# Classes
+Stanford University: CS229, CS230
