@@ -8,7 +8,6 @@ It consists of a few parts:
    - Crop images to right size
    - Resize images
    - Create not chosen_cat examples
-   - Export to file with img_ids and labels
  - tensorflow_person_model.ipynb: a keras model that has been hand-toggled
  - logistic_regression.ipynb: [does not exist yet] a logistic regression model to fit our problem
  - rounded_model.ipynb: [does not exist yet] a fully connected neural network with handmade gradient descent changes
