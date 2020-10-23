@@ -5,7 +5,7 @@ Herein lies the almighty Haptic Vest project.
 It consists of a few parts:
  - data_pipeline.ipynb & image_preprocessing.ipynb: the data prep code for training the models (DONE)
  - tensorflow_person_model.ipynb: a keras model that has been hand-toggled
- - logistic_regression.ipynb: [does not exist yet] a logistic regression model to fit our problem
+ - resnet43_oracle{X}.ipynb: versions of the resnet34 architecture retrained for dataset sizes {X}
  - rounded_model.ipynb: [does not exist yet] a fully connected neural network with handmade gradient descent changes
  - squeeze_net.ipynb: [does not exist yet] a retrained version of SqueezeNet
 
