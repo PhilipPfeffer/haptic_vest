@@ -13,6 +13,7 @@ It consists of a few parts:
 # Useful links
 - COCO Dataset: https://cocodataset.org/#download
 - pycoco API: https://github.com/cocodataset/cocoapi/blob/master/PythonAPI/pycocotools/coco.py
+- MobileNet Quantisation paper that mentions a bit-shift network!!! https://arxiv.org/pdf/1712.05877.pdf
 
 # Authors
 Philip Pfeffer & Raul Dagir
