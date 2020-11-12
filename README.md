@@ -8,10 +8,7 @@ It consists of a few parts:
  - resnet43_oracle{X}.ipynb: versions of the resnet34 architecture retrained for dataset sizes {X} (DONE)
  - tensorflow_person_model.ipynb: a keras model that has been hand-toggled
  - transfer_learning.ipynb: a TF.org example of mobilenet being retrained
-   - TODO: Find out how to replace default MobileNet_V1 with a specific version from https://www.tensorflow.org/lite/guide/hosted_models#image_classification
-   - TODO: Write code to convert from tflite model to something that can be run on RasPi
-   - TODO: Retrain using our own data
-- rounded_model.ipynb: [does not exist yet] a fully connected neural network with handmade gradient descent changes
+ - rounded_model.ipynb: [does not exist yet] a fully connected neural network with handmade gradient descent changes
  - squeeze_net.ipynb: [does not exist yet] a retrained version of SqueezeNet
 
 
