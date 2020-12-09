@@ -2,7 +2,7 @@
 Herein lies the almighty Haptic Vest project.
 
 # Description
-Imagine being visually impaired but still able to feel the movement of surrounding crowds and cars on your body. This can be achieved by wearing a 'haptic vest' that uses a camera to capture images, a computer vision model to process them and coin-sized vibration motors that vibrate the shirt to communicate the output
+Imagine being visually impaired but still able to feel the movement of surrounding crowds and cars on your body. Imagine being a peacekeeper but resting assured that unexpected movements behind you will be transduced into your shirt. Imagine being a twenty year-old playing Pokémon Go and receiving a haptic vibration pointing you towards your next catch. This can be achieved by wearing a 'haptic vest' that uses a camera to capture images, a computer vision model to process them and coin-sized vibration motors that vibrate the shirt to communicate the output
 
 ## Video Description of MobileNetV1+V2 Methods
 Featuring Raul Dagir (GitHub: rgdagir), who helped me with this portion of the project.
