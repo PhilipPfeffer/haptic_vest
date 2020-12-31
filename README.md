@@ -1,6 +1,16 @@
 # Haptic Vest Computer Vision Project
 Herein lies the almighty Haptic Vest project.
 
+# Authors
+Philip Pfeffer & Raul Dagir
+
+# Classes
+Stanford University: CS229, CS230
+
+# Papers
+Stanford CS229: https://github.com/PhilipPfeffer/haptic_vest/blob/main/CS229_Final_Paper.pdf
+Stanford CS230: https://github.com/PhilipPfeffer/haptic_vest/blob/main/CS230_Project_Final_Report.pdf
+
 # Description
 Imagine being visually impaired but still able to feel the movement of surrounding crowds and cars on your body. Imagine being a peacekeeper but resting assured that unexpected movements behind you will be transduced into your shirt. Imagine being a twenty year-old playing Pokémon Go and receiving a haptic vibration pointing you towards your next catch. This can be achieved by wearing a 'haptic vest' that uses a camera to capture images, a computer vision model to process them and coin-sized vibration motors that vibrate the shirt to communicate the output
 
@@ -46,9 +56,3 @@ The components of the project are:
 - COCO Dataset: https://cocodataset.org/#download
 - pycoco API: https://github.com/cocodataset/cocoapi/blob/master/PythonAPI/pycocotools/coco.py
 - MobileNet Quantisation paper that mentions a bit-shift network!!! https://arxiv.org/pdf/1712.05877.pdf
-
-# Authors
-Philip Pfeffer & Raul Dagir
-
-# Classes
-Stanford University: CS229, CS230
