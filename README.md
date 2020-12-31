@@ -9,6 +9,7 @@ Stanford University: CS229, CS230
 
 # Papers
 Stanford CS229: https://github.com/PhilipPfeffer/haptic_vest/blob/main/CS229_Final_Paper.pdf
+
 Stanford CS230: https://github.com/PhilipPfeffer/haptic_vest/blob/main/CS230_Project_Final_Report.pdf
 
 # Description
